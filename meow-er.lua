@@ -1,6 +1,6 @@
 -- Reposted by @da7mu on discord
 
-local Library = loadstring(game:HttpGet("https://gist.githubusercontent.com/joshhhie/4fdce939cf1690c5f391e9091e9e6b62/raw/stellar_ui_modified.lua?v=4"))()
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/joshhhie/resource/refs/heads/main/meow.lua"))()
 
 local Window = Library:CreateWindow({
     Name = "Stellar Ui",
